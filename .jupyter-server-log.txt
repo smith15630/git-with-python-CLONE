@@ -1,0 +1,43 @@
+[I 15:56:40.687 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2022-07-05 15:56:42.315 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-07-05 15:56:42.315 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-07-05 15:56:42.315 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-07-05 15:56:42.315 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-07-05 15:56:42.315 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-07-05 15:56:42.315 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-07-05 15:56:42.315 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-07-05 15:56:42.315 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-07-05 15:56:42.315 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-07-05 15:56:42.315 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-07-05 15:56:42.315 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-07-05 15:56:42.315 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-07-05 15:56:42.326 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-07-05 15:56:42.326 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 15:56:42.336 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 15:56:42.338 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 15:56:42.339 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 15:56:42.339 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 15:56:42.339 NotebookApp] http://jupyter-smith15630-2dgit-5fwith-5fpython-2d139t4t3g:8888/binder/jupyter/user/smith15630-git_with_python-139t4t3g/?token=...
+[I 15:56:42.339 NotebookApp]  or http://127.0.0.1:8888/binder/jupyter/user/smith15630-git_with_python-139t4t3g/?token=...
+[I 15:56:42.339 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:56:42.344 NotebookApp] No web browser found: could not locate runnable browser.
+[I 15:56:42.559 NotebookApp] 302 GET /binder/jupyter/user/smith15630-git_with_python-139t4t3g/ (10.244.90.5) 1.700000ms
+[I 15:56:48.677 NotebookApp] 301 GET /binder/jupyter/user/smith15630-git_with_python-139t4t3g/static/favicons/favicon.ico (140.254.0.46) 1.470000ms
+[I 2022-07-05 15:56:53.100 LabApp] Build is up to date
+[I 15:57:35.139 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[W 15:57:35.139 NotebookApp] Notebook python assignment.ipynb is not trusted
+[I 15:57:36.273 NotebookApp] Kernel started: dfa3e9f1-e952-4c6a-9d99-2928820e963d, name: python3
+[I 15:57:36.274 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 15:57:36.274 NotebookApp] Culling kernels even with connected clients
+[I 15:57:37.245 NotebookApp] Starting buffering for dfa3e9f1-e952-4c6a-9d99-2928820e963d:9829960b-b62e-492d-8363-847b329450bc
+[I 15:57:37.511 NotebookApp] 301 GET /binder/jupyter/user/smith15630-git_with_python-139t4t3g/static/favicons/favicon-busy-1.ico (140.254.0.46) 1.050000ms
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: af4f30b7-3baf-4626-822a-8ded7970ac1e
+[W 15:57:56.835 NotebookApp] Notebook python assignment.ipynb is not trusted
+[I 15:58:01.964 NotebookApp] Uploading file to /python assignment.py
+[I 15:59:35.709 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 16:02:35.744 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
